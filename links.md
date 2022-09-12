@@ -12,7 +12,7 @@ permalink: LINKS/
 # LINKS
 
 1. [10 Linux Terminal Commands for Beginners](https://youtu.be/CpTfQ-q6MPU)<br>
-this video explain basic linux command really well and easy to understand.
+this video explains basic linux command really well and easy to understand.
 2. [Learn Regex: A Beginner’s Guide](https://www.sitepoint.com/learn-regex/)<br>
 This website explains in detail about regular expressions and when we should use them.
 
