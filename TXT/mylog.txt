@@ -17,4 +17,4 @@ ZCZC W01 60 L13 Assignment #03
 ZCZC W01 30 L14 Assignment #04
 ZCZC W01 60 L05 Quiz related including studying
 ZCZC W01 35 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc
-
+ZCZC W02 20 L11 Assignment #01
