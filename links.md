@@ -15,9 +15,9 @@ permalink: LINKS/
 this video explains basic linux command really well and easy to understand.
 2. [Learn Regex: A Beginner’s Guide](https://www.sitepoint.com/learn-regex/)<br>
 This website explains in detail about regular expressions and when we should use them.
-3. [Learn C](https://www.learn-c.org/en/Welcome)
+3. [Learn C](https://www.learn-c.org/en/Welcome)<br>
 This website explains C Programming Language very well with examples and exercises
-4. [The Beginner’s Guide To Online Privacy](https://www.freecodecamp.org/news/the-beginners-guide-to-online-privacy-7149b33c4a3e/)
+4. [The Beginner’s Guide To Online Privacy](https://www.freecodecamp.org/news/the-beginners-guide-to-online-privacy-7149b33c4a3e/)<br>
 This website is very useful for beginners to get to know about online privacy. This website makes me more aware about privacy
 
 <br>
