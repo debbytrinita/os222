@@ -19,6 +19,14 @@ This website explains in detail about regular expressions and when we should use
 This website explains C Programming Language very well with examples and exercises
 4. [The Beginner’s Guide To Online Privacy](https://www.freecodecamp.org/news/the-beginners-guide-to-online-privacy-7149b33c4a3e/)<br>
 This website is very useful for beginners to get to know about online privacy. This website makes me more aware about privacy
+5. [Linux Crash Course - The sed Command](https://www.youtube.com/watch?v=nXLnx8ncZyE)<br>
+This video gives you a brief explanation about sed command which is easy to understand
+6. [Linux Crash Course - The grep Command](https://www.youtube.com/watch?v=Tc_jntovCM0&t=219s)<br>
+This Video gives you a brief explanation about grep command which is easy to understand
+7. [Files & File Systems](https://www.youtube.com/watch?v=KN8YgJnShPM&t=376s)<br>
+This Video explains about file systems really well 
+ 
+
 
 <br>
 <hr>
