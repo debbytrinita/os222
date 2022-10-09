@@ -51,4 +51,20 @@ ZCZC W04 20 L25 C-language including Make
 ZCZC W04 20 L43 TXT/myrank.tex related, including peer review.
 ZCZC W04 5 L03 GitHub and git related, including commit, push, pull
 ZCZC W04 45 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05 200 ZOOM meetings and class related
+ZCZC W05 35 L01 SCELE/Discord related
+ZCZC W05 10 L01 TXT/mylog.txt related.
+ZCZC W05 5 L03 GitHub and git related, including commit, push, pull
+ZCZC W05 80 L11 Assignment #01
+ZCZC W05 20 L12 Assignment #02
+ZCZC W05 15 L13 Assignment #03
+ZCZC W05 60 L14 Assignment #04
+ZCZC W05 45 L15 Assignment #05
+ZCZC W05 60 L05 Quiz related including studying
+ZCZC W05 20 L08 OS Chat related (WA, LIME, Telegram, Signal) with friend)
+ZCZC W05 20 L43 TXT/myrank.tex related, including peer review.
+ZCZC W05 45 L06 References/Books/Documents/Browsing/GSGS related
+
+
+
 

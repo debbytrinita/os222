@@ -27,8 +27,10 @@ This Video gives you a brief explanation about grep command which is easy to und
 This Video explains about file systems really well 
 8. [Makefiles and Compiling C](https://www.youtube.com/watch?v=zfuOcvYrhOs&t=244s)<br>
 This video gives a brief explanation about Makefiles and Compiling with C language in easy way
-
-
+9. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+This article explains about virtual memory in operating system 
+10. [Little-Endian And Big-Endian](https://www.section.io/engineering-education/what-is-little-endian-and-big-endian/)<br>
+This article gives explanation about differences between Little-Endian and Big-Endian
 
 <br>
 <hr>
