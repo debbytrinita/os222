@@ -31,7 +31,10 @@ This video gives a brief explanation about Makefiles and Compiling with C langua
 This article explains about virtual memory in operating system 
 10. [Little-Endian And Big-Endian](https://www.section.io/engineering-education/what-is-little-endian-and-big-endian/)<br>
 This article gives explanation about differences between Little-Endian and Big-Endian
-
+11. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
+This article explains about fork very well
+12. [Introduction to Threads](https://www.youtube.com/watch?v=LOfGJcVnvAk)<br>
+This video helps me to understand about thread
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
