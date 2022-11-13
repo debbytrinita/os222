@@ -76,7 +76,17 @@ ZCZC W06 90 L05 Quiz related including studying
 ZCZC W06 10 L08 OS Chat related (WA, LIME, Telegram, Signal) with friend)
 ZCZC W06 20 L43 TXT/myrank.tex related, including peer review.
 ZCZC W06 30 L06 References/Books/Documents/Browsing/GSGS related
-
-
+ZCZC W07 200 L02 ZOOM meetings and class related
+ZCZC W07 30 L01 SCELE/Discord related
+ZCZC W07 10 L01 TXT/mylog.txt related.
+ZCZC W07 25 L43 TXT/myrank.tex related, including peer review.
+ZCZC W07 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W07 20 L08 OS Chat related (WA, LIME, Telegram, Signal) with friend)
+ZCZC W07 45 L05 Quiz related including studying
+ZCZC W07 60 L11 Assignment #01
+ZCZC W07 15 L12 Assignment #02
+ZCZC W07 60 L13 Assignment #03
+ZCZC W07 40 L14 Assignment #04
+ZCZC W07 5 L03 GitHub and git related, including commit, push, pull
 
 
