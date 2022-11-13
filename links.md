@@ -35,6 +35,11 @@ This article gives explanation about differences between Little-Endian and Big-E
 This article explains about fork very well
 12. [Introduction to Threads](https://www.youtube.com/watch?v=LOfGJcVnvAk)<br>
 This video helps me to understand about thread
+13. [How to Copy Files in Linux](https://www.freecodecamp.org/news/the-linux-cp-command-how-to-copy-files-in-linux/#:~:text=You%20can%20copy%20files%20by,this%20using%20the%20cp%20command.)<br>
+This articles helps me to do assignment week 7 
+14. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) <br>
+This articles explains about process synchronization really well
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
