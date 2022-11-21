@@ -39,6 +39,10 @@ This video helps me to understand about thread
 This articles helps me to do assignment week 7 
 14. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) <br>
 This articles explains about process synchronization really well
+15. [How to build Linux From Scratch 11.2](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)<br>
+This youtube playlist helps me a lot to build LFS
+16. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.2/)<br>
+Guide book to build LFS
 
 <br>
 <hr>
