@@ -88,5 +88,17 @@ ZCZC W07 15 L12 Assignment #02
 ZCZC W07 60 L13 Assignment #03
 ZCZC W07 40 L14 Assignment #04
 ZCZC W07 5 L03 GitHub and git related, including commit, push, pull
+ZCZC W08 200 L02 ZOOM meetings and class related
+ZCZC W08 40 L01 SCELE/Discord related
+ZCZC W08 10 L01 TXT/mylog.txt related.
+ZCZC W08 20 L43 TXT/myrank.tex related, including peer review.
+ZCZC W08 70 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W08 60 L08 OS Chat related (WA, LIME, Telegram, Signal) with friend)
+ZCZC W08 45 L05 Quiz related including studying
+ZCZC W08 20 L11 Assignment #01
+ZCZC W08 15 L12 Assignment #02
+ZCZC W08 210 L13 Assignment #03
+ZCZC W08 20 L14 Assignment #04
+ZCZC W08 5 L03 GitHub and git related, including commit, push, pull
 
 
